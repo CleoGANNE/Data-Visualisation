@@ -1,2 +1,2 @@
 # Data-Visualisation
-Projects done by PowerBI
+School project showcase, done by R Shinny
